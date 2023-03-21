@@ -1,9 +1,9 @@
 <h1 text="center"><img src="img/gif.gif"></h1>
 
 
-## Chamada de paciente de uma clínica
+## Chamada de paciente da clínica Master
 
-A aplicação de chamada de paciente é um sistema utilizado em consultórios médicos, clínicas e hospitais para organizar a ordem de atendimento dos pacientes.
+É um sistema utilizado em consultórios médicos, clínicas e hospitais para organizar a ordem de atendimento dos pacientes.
 
 ## Tecnologia Utilizada
 
