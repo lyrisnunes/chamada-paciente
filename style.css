@@ -1,0 +1,48 @@
+*{
+   padding: 0;
+   margin: 0;
+   border: none;
+}
+
+body{
+   height: 100vh;
+   display: grid;
+   justify-content: center;
+   align-items: center;
+   background-color: #589A8D;
+   font-family: 'Archivo', sans-serif;
+}
+
+main{
+   max-width: 600px;
+   margin: 0 auto;
+   margin-bottom: 4rem;
+   background-color: #fefaff;
+   padding: 2rem;
+   border-radius: 5px;
+   text-align: center;
+}
+
+h1{
+   font-weight: 300;
+}
+
+strong{
+   color: #007566;
+}
+
+p{
+   padding: 2rem 0;
+}
+
+button{
+   background-color: #007566;
+   color: #fefaff;
+   padding: 1rem;
+   cursor: pointer;
+}
+
+
+
+
+ 
