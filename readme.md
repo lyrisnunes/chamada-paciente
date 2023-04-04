@@ -14,5 +14,5 @@
 ## Acesse o projeto
 
  <h3>
-        <a href="https://lyrisnunes.github.io/chamada-paciente/"> - Veja o projeto clique aqui </a>
+        <a href="https://recesocial-react.vercel.app/"> - Veja o projeto clique aqui </a>
 </h3>
